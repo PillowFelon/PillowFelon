@@ -40,7 +40,3 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pillowfelon&show_icons=true&locale=en&theme=tokyonight" alt="pillowfelon" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pillowfelon&theme=tokyonight" alt="pillowfelon streak stats" />
-</p>
